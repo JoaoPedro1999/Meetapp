@@ -1,5 +1,7 @@
 # Meetapp - Desafio Bootcamp
 
+Foi utilizado o git submodules, ou seja, são modulos separados que copõem o MeetApp, todos possuem um repositório especifico onde está incluso todo o código fonte.
+
 ## Frontend 
 #### Instruções de Instalação
 
