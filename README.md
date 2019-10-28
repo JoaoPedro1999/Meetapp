@@ -5,7 +5,7 @@ Foi utilizado o git submodules, ou seja, são modulos separados que copõem o Me
 ## Frontend 
 #### Instruções de Instalação
 
-`` git clone `` 
+`` git clone https://github.com/JoaoPedro1999/meetapp-frontend.git `` 
 
 Para baixar as dependências, utilize:
 
@@ -18,7 +18,7 @@ Para rodar a aplicação, utilize:
 ## Backend
 #### Instruções de Instalação
 
-`` git clone `` 
+`` git clone https://github.com/JoaoPedro1999/meetapp-backend.git`` 
 
 `` yarn `` 
 
@@ -40,7 +40,7 @@ Para rodar a aplicação, utilize:
 
 **O Aplicativo foi feito apenas para Android**
 
-`` git clone `` 
+`` git clone https://github.com/JoaoPedro1999/meetapp-mobile.git`` 
 
 `` yarn `` 
 
