@@ -1,0 +1,9 @@
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/JoaoPedro1999/meetapp-mobile
+[submodule "frontend"]
+        path = frontend
+        url = https://github.com/JoaoPedro1999/meetapp-frontend
+[submodule "backend"]
+        path = backend
+        url = https://github.com/JoaoPedro1999/meetapp-backend
