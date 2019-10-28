@@ -32,6 +32,10 @@ Para rodar a aplicação, utilize:
 
 `` yarn dev ``
 
+Para rodar as queues, utilize:
+
+`` yarn queue ``
+
 *A aplicação está rodando em uma instância na Google Cloud, o endereço da aplicação:* [http://104.154.247.88/](http://104.154.247.88/). *Toda configuração foi feita seguinda os módulos de deploy apresentados no Bootcamp. Por isso a configuração do API utilizada no axios segue esse endereço.* 
 
 
